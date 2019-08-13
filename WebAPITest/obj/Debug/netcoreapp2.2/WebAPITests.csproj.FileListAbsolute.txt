@@ -1,0 +1,17 @@
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\bin\Debug\netcoreapp2.2\WebAPITests.deps.json
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\bin\Debug\netcoreapp2.2\WebAPITests.runtimeconfig.json
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\bin\Debug\netcoreapp2.2\WebAPITests.runtimeconfig.dev.json
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\bin\Debug\netcoreapp2.2\WebAPITests.dll
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\bin\Debug\netcoreapp2.2\WebAPI.dll
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\bin\Debug\netcoreapp2.2\WebAPI.pdb
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\obj\Debug\netcoreapp2.2\WebAPITests.csprojAssemblyReference.cache
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\obj\Debug\netcoreapp2.2\WebAPITests.csproj.CoreCompileInputs.cache
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\obj\Debug\netcoreapp2.2\WebAPITests.AssemblyInfoInputs.cache
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\obj\Debug\netcoreapp2.2\WebAPITests.AssemblyInfo.cs
+c:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\obj\Debug\netcoreapp2.2\WebAPITests.csproj.CopyComplete
+C:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\bin\Debug\netcoreapp2.2\WebAPITests.pdb
+C:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\obj\Debug\netcoreapp2.2\WebAPITests.dll
+C:\Users\bmohan\source\repos\WebAPI\XUnitTestProject1\obj\Debug\netcoreapp2.2\WebAPITests.pdb
